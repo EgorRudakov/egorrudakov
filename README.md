@@ -1,4 +1,4 @@
-![Header](https://github.com/EgorRudakov/egorrudakov/blob/main/assets/download%20(2).gif)
+![Header](https://github.com/EgorRudakov/egorrudakov/blob/main/assets/github-header-image.png)
 
 ## Frontend developer
 
